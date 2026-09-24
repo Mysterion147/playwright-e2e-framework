@@ -6,15 +6,15 @@
       "localStorage": [
         {
           "name": "user",
-          "value": "{\"email\":\"qa.playwright.demo@mail.com\",\"token\":\"token_ea2457411258e8f61120e6a66540b3ee\",\"username\":\"user_1790138774736\",\"bio\":null,\"image\":null}"
+          "value": "{\"email\":\"qa.playwright.demo@mail.com\",\"token\":\"token_3087e5bd8c82f2084f5797e7f976f40b\",\"username\":\"user_1790138774736\",\"bio\":null,\"image\":null}"
         },
         {
           "name": "jwt",
-          "value": "token_ea2457411258e8f61120e6a66540b3ee"
+          "value": "token_3087e5bd8c82f2084f5797e7f976f40b"
         },
         {
           "name": "jwtToken",
-          "value": "token_ea2457411258e8f61120e6a66540b3ee"
+          "value": "token_3087e5bd8c82f2084f5797e7f976f40b"
         }
       ]
     }
