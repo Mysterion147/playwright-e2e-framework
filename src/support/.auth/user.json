@@ -1,0 +1,22 @@
+{
+  "cookies": [],
+  "origins": [
+    {
+      "origin": "https://demo.realworld.show",
+      "localStorage": [
+        {
+          "name": "user",
+          "value": "{\"email\":\"qa.playwright.demo@mail.com\",\"token\":\"token_558744ad570c04cba7d0b4e34cec28ef\",\"username\":\"user_1790138774736\",\"bio\":null,\"image\":null}"
+        },
+        {
+          "name": "jwt",
+          "value": "token_558744ad570c04cba7d0b4e34cec28ef"
+        },
+        {
+          "name": "jwtToken",
+          "value": "token_558744ad570c04cba7d0b4e34cec28ef"
+        }
+      ]
+    }
+  ]
+}
